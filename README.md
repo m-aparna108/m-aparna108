@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **m-aparna108/m-aparna108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋 I'm Aparna  
+
+🎓 A computer applications student exploring the world of **Data Science** & **Machine Learning**  
+🔍 Turning uncertainty into something deliberate  
+💡 Learning, experimenting, and building step by step toward intelligent systems
